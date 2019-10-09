@@ -1,2 +1,2 @@
 # Dooit
-Doot, Personal Cash Manager
+Dooit, Personal Cash Manager
